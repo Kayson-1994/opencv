@@ -4,7 +4,7 @@ opencv2的使用
 ***
 这个对输入图片，画矩形框并标识出首、尾坐标，该程序被测试过，能正常运行。程序使用的图片和视频，都在根目录下文件内。
 
-Setup安装
+## Setup安装
 1. 安装cv2模块
 ```
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python
@@ -25,8 +25,8 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python
     4. 嵌入OpenCV Intel IPP子集已从2015.12升级到2017.2版本，从而在我们的核心和imgproc perf测试中提高了15％的速度。
     5. 716拉请求已经合并，588我们的错误跟踪器中的问题已经关闭，因为OpenCV 3.2。另外，我们通过一些严格的静态分析仪工具运行OpenCV，并修复了检测到的问题。所以OpenCV 3.3应该是非常稳定和可靠的释放。
     6. 有关OpenCV 3.3的更改和新功能的更多详细信息，请访问https://github.com/opencv/opencv/wiki/ChangeLog。
-    7. 下载OpenCV 3.3
-    7. 安装OpenCV 3.3
+    7. [下载OpenCV 3.3](https://github.com/opencv/opencv/releases/tag/3.3.0)
+    7. [安装OpenCV 3.3](http://www.linuxfromscratch.org/blfs/view/cvs/general/opencv.html)
 - OpenCV 4.0发布了 https://opencv.org/opencv-4-0-0.html
 
 ## 怎样翻墙？使用Google搜索引擎，观看YouTube视频教程
